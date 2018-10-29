@@ -6,8 +6,8 @@ rngs.o: rngs.h rngs.c
 dominion.o: dominion.h dominion.c rngs.o
 	gcc -c dominion.c -g rngs.o $(CFLAGS)
 
-unittest1: unittest1.c dominion.c rngs.c
-	gcc -o unittest1 -g  unittest1.c dominion.c rngs.c $(CFLAGS)
+unittest1: unittest1.c dominion.o rngs.o
+	gcc -o unittest1 -g  unittest1.c dominion.o rngs.o $(CFLAGS)
 	  
 unittest2: unittest2.c dominion.o rngs.o
 	gcc -o unittest2 -g  unittest2.c dominion.o rngs.o $(CFLAGS)

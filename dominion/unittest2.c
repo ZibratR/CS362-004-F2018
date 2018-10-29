@@ -19,7 +19,7 @@
 
 int main() {
 	// Set up variables
-	struct gameState* state;
+	struct gameState state;
 
 	// Want to test that:
 	// a number lower and higher than treasure_map returns -1

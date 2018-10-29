@@ -18,26 +18,26 @@
 
 int main() {
 
-	struct gameState* state;
+	struct gameState state;
 	int numPlayers = 2;
 	int kingdomCards[10] = { adventurer, gardens, village, minion, mine, cutpurse,
 		sea_hag, tribute, smithy, council_room };
 	int randomSeed = 1000;
 
 	//Initialize a test game.  Players are given 7 copper cards and 3 estates.
-	initializeGame(numPlayers, kingdomCards, randomSeed, state);
+	initializeGame(numPlayers, kingdomCards, randomSeed, &state);
 
 	int currentPlayer = 0;
 
 	// Set the hand to have one village card and nothing else.
-	discardCard(4, currentPlayer, state, 0);
-	discardCard(3, currentPlayer, state, 0);
-	discardCard(2, currentPlayer, state, 0);
-	discardCard(1, currentPlayer, state, 0);
-	state->hand[currentPlayer][0] = gardens;
+	discardCard(4, currentPlayer, &state, 0);
+	discardCard(3, currentPlayer, &state, 0);
+	discardCard(2, currentPlayer, &state, 0);
+	discardCard(1, currentPlayer, &state, 0);
+	state.hand[currentPlayer][0] = gardens;
 
 	// Run function.
-	int returnValue = cardEffect(gardens, 0, 0, 0, state, 0, 0);
+	int returnValue = cardEffect(gardens, 0, 0, 0, &state, 0, 0);
 	/*******************************************************************************
 	* TEST 1 - Check return value.
 	*******************************************************************************/

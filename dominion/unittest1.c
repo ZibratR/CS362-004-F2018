@@ -19,7 +19,7 @@
 
 int main() {
 	// Set up variables
-	struct gameState* state;
+	struct gameState state;
 
 	// Want to test that:
 	// provinces == 0 => returns 1
@@ -30,11 +30,11 @@ int main() {
 	int i;
 	for (i = 0; i < treasure_map; i++)
 	{
-		state->supplyCount[i] = 5 ;
+		state.supplyCount[i] = 5 ;
 	}
 
 	// Check that we get back 0 when we have cards in each supply
-	int returnedValue = isGameOver(state);
+	int returnedValue = isGameOver(&state);
 	assert(returnedValue == 0);
 
 #if (NOISY_TEST == 1)
@@ -42,10 +42,10 @@ int main() {
 #endif
 
 	//Clear out three piles and check that we get 1 back
-	state->supplyCount[baron] = 0;
-	state->supplyCount[adventurer] = 0;
-	state->supplyCount[mine] = 0;
-	int returnedValue = isGameOver(state);
+	state.supplyCount[baron] = 0;
+	state.supplyCount[adventurer] = 0;
+	state.supplyCount[mine] = 0;
+	returnedValue = isGameOver(&state);
 	assert(returnedValue == 1);
 
 #if (NOISY_TEST == 1)
@@ -53,8 +53,8 @@ int main() {
 #endif
 
 	//Reset the barons and make sure that we get back a 0 again.
-	state->supplyCount[baron] = 5;
-	int returnedValue = isGameOver(state);
+	state.supplyCount[baron] = 5;
+	returnedValue = isGameOver(&state);
 	assert(returnedValue == 0);
 
 #if (NOISY_TEST == 1)
@@ -62,8 +62,8 @@ int main() {
 #endif
 
 	//Remove all the provinces and check that we get back 1
-	state->supplyCount[province] = 0;
-	int returnedValue = isGameOver(state);
+	state.supplyCount[province] = 0;
+	returnedValue = isGameOver(&state);
 	assert(returnedValue == 1);
 
 #if (NOISY_TEST == 1)
@@ -71,8 +71,8 @@ int main() {
 #endif
 
 	//Return the provinces to 5 and check that we still get 0
-	state->supplyCount[province] = 5;
-	int returnedValue = isGameOver(state);
+	state.supplyCount[province] = 5;
+	returnedValue = isGameOver(&state);
 	assert(returnedValue == 0);
 
 #if (NOISY_TEST == 1)

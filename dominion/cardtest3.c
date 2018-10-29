@@ -18,48 +18,48 @@
 
 int main() {
 
-	struct gameState* state;
+	struct gameState state;
 	int numPlayers = 2;
 	int kingdomCards[10] = { adventurer, embargo, village, minion, mine, cutpurse,
 		sea_hag, tribute, smithy, council_room };
 	int randomSeed = 1000;
 
 	//Initialize a test game.  Players are given 7 copper cards and 3 estates.
-	initializeGame(numPlayers, kingdomCards, randomSeed, state);
+	initializeGame(numPlayers, kingdomCards, randomSeed, &state);
 
 	int currentPlayer = 0;
 
 	// Set the hand to have one village card and nothing else.
-	discardCard(4, currentPlayer, state, 0);
-	discardCard(3, currentPlayer, state, 0);
-	discardCard(2, currentPlayer, state, 0);
-	discardCard(1, currentPlayer, state, 0);
-	state->hand[currentPlayer][0] = village;
+	discardCard(4, currentPlayer, &state, 0);
+	discardCard(3, currentPlayer, &state, 0);
+	discardCard(2, currentPlayer, &state, 0);
+	discardCard(1, currentPlayer, &state, 0);
+	state.hand[currentPlayer][0] = village;
 
-	int actions = state->numActions;
+	int actions = state.numActions;
 
 	// Run function.
-	int returnValue = cardEffect(village, 0, 0, 0, state, 0, 0);
+	int returnValue = cardEffect(village, 0, 0, 0, &state, 0, 0);
 /*******************************************************************************
 * TEST 1 - Check that 1 new card was drawn into hand (village discarded).
 *******************************************************************************/
 
 	// Check that hand count is now 1. 
-	assert(state->handCount[currentPlayer] == 1);
+	assert(state.handCount[currentPlayer] == 1);
 	printf("1 card drawn. \n");
 
 /*******************************************************************************
 * TEST 2 - Check that new cards are not village.
 *******************************************************************************/
 	// Each new card is not a village.  
-	assert(state->hand[currentPlayer][0] != village);
+	assert(state.hand[currentPlayer][0] != village);
 	printf("That 1 card is not the village - it was discarded. \n");
 
 /*******************************************************************************
 * TEST 3 - Check that 2 actions were added.
 *******************************************************************************/
 	// The current player should now have 2 additional actions.  
-	assert(state->numActions == actions + 2);
+	assert(state.numActions == actions + 2);
 	printf("Player has 2 additional actions. \n");
 
 /*******************************************************************************

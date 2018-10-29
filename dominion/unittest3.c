@@ -19,36 +19,36 @@
 
 int main() {
 	// Set up variables
-	struct gameState* state;
+	struct gameState state;
 
-	state->handCount[0] = 3;
-	state->handCount[1] = 5;
-	state->handCount[2] = 2;
-	state->handCount[3] = 4;
+	state.handCount[0] = 3;
+	state.handCount[1] = 5;
+	state.handCount[2] = 2;
+	state.handCount[3] = 4;
 
 	// Want to test that:
 	// the numHandCards returns the correct number for each player.
 
-	state->whoseTurn = 0;
-	assert(numHandCards(state) == 3);
+	state.whoseTurn = 0;
+	assert(numHandCards(&state) == 3);
 #if (NOISY_TEST == 1)
 	printf("Player 1's number of cards is correct. \n");
 #endif
 
-	state->whoseTurn = 1;
-	assert(numHandCards(state) == 5);
+	state.whoseTurn = 1;
+	assert(numHandCards(&state) == 5);
 #if (NOISY_TEST == 1)
 	printf("Player 2's number of cards is correct. \n");
 #endif
 
-	state->whoseTurn = 2;
-	assert(numHandCards(state) == 2);
+	state.whoseTurn = 2;
+	assert(numHandCards(&state) == 2);
 #if (NOISY_TEST == 1)
 	printf("Player 3's number of cards is correct. \n");
 #endif
 
-	state->whoseTurn = 3;
-	assert(numHandCards(state) == 4);
+	state.whoseTurn = 3;
+	assert(numHandCards(&state) == 4);
 #if (NOISY_TEST == 1)
 	printf("Player 4's number of cards is correct. \n");
 #endif

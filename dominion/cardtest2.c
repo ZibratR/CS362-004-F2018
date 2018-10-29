@@ -18,41 +18,41 @@
 
 int main() {
 
-	struct gameState* state;
+	struct gameState state;
 	int numPlayers = 2;
 	int kingdomCards[10] = { adventurer, embargo, village, minion, mine, cutpurse,
 		sea_hag, tribute, smithy, council_room };
 	int randomSeed = 1000;
 
 	//Initialize a test game.  Players are given 7 copper cards and 3 estates.
-	initializeGame(numPlayers, kingdomCards, randomSeed, state);
+	initializeGame(numPlayers, kingdomCards, randomSeed, &state);
 
 	int currentPlayer = 0;
 
 	// Set the hand to have one smithy card and nothing else.
-	discardCard(4, currentPlayer, state, 0);
-	discardCard(3, currentPlayer, state, 0);
-	discardCard(2, currentPlayer, state, 0);
-	discardCard(1, currentPlayer, state, 0);
-	state->hand[currentPlayer][0] = smithy;
+	discardCard(4, currentPlayer, &state, 0);
+	discardCard(3, currentPlayer, &state, 0);
+	discardCard(2, currentPlayer, &state, 0);
+	discardCard(1, currentPlayer, &state, 0);
+	state.hand[currentPlayer][0] = smithy;
 	
 	// Run function.
-	int returnValue = cardEffect(smithy, 0, 0, 0, state, 0, 0);
+	int returnValue = cardEffect(smithy, 0, 0, 0, &state, 0, 0);
 /*******************************************************************************
 * TEST 1 - Check that 3 new cards were drawn into hand (smithy discarded).
 *******************************************************************************/
 
 	// Check that hand count is now 3. (3 drawn and smithy removed.)
-	assert(state->handCount[currentPlayer] == 3);
+	assert(state.handCount[currentPlayer] == 3);
 	printf("3 cards drawn. \n");
 
 /*******************************************************************************
 * TEST 2 - Check that new cards are not smithy.
 *******************************************************************************/
 	// Each new card is not a smithy.  
-	assert(state->hand[currentPlayer][0] != smithy);
-	assert(state->hand[currentPlayer][1] != smithy);
-	assert(state->hand[currentPlayer][2] != smithy);
+	assert(state.hand[currentPlayer][0] != smithy);
+	assert(state.hand[currentPlayer][1] != smithy);
+	assert(state.hand[currentPlayer][2] != smithy);
 	printf("Those 3 cards are not the smithy - it was discarded. \n");
 
 /*******************************************************************************
