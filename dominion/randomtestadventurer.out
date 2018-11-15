@@ -1,0 +1,6009 @@
+
+
+
+TEST # 0
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 1
+
+Treasure AFTER 4
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 1
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 2
+
+Treasure AFTER 5
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 2
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 1
+
+Treasure AFTER 4
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 3
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 3
+
+Treasure AFTER 6
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 4
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 2
+
+Treasure AFTER 5
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 5
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 0
+
+Treasure AFTER 3
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 6
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 2
+
+Treasure AFTER 5
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 7
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 0
+
+Treasure AFTER 3
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 8
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 0
+
+Treasure AFTER 3
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 9
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 2
+
+Treasure AFTER 5
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 10
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 1
+
+Treasure AFTER 4
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 11
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 1
+
+Treasure AFTER 4
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 12
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 0
+
+Treasure AFTER 3
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 13
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 2
+
+Treasure AFTER 5
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 14
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 0
+
+Treasure AFTER 3
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 15
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 3
+
+Treasure AFTER 6
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 16
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 2
+
+Treasure AFTER 5
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 17
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 0
+
+Treasure AFTER 3
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 18
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 0
+
+Treasure AFTER 3
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 19
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 2
+
+Treasure AFTER 5
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 20
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 0
+
+Treasure AFTER 3
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 21
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 3
+
+Treasure AFTER 6
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 22
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 3
+
+Treasure AFTER 6
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 23
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 0
+
+Treasure AFTER 3
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 24
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 0
+
+Treasure AFTER 3
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 25
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 0
+
+Treasure AFTER 3
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 26
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 2
+
+Treasure AFTER 5
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 27
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 3
+
+Treasure AFTER 6
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 28
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 2
+
+Treasure AFTER 5
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 29
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 2
+
+Treasure AFTER 5
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 30
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 2
+
+Treasure AFTER 5
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 31
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 1
+
+Treasure AFTER 4
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 32
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 1
+
+Treasure AFTER 4
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 33
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 2
+
+Treasure AFTER 5
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 34
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 1
+
+Treasure AFTER 4
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 35
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 0
+
+Treasure AFTER 3
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 36
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 0
+
+Treasure AFTER 3
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 37
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 4
+
+Treasure AFTER 7
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 38
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 2
+
+Treasure AFTER 5
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 39
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 0
+
+Treasure AFTER 3
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 40
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 1
+
+Treasure AFTER 4
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 41
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 2
+
+Treasure AFTER 5
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 42
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 1
+
+Treasure AFTER 4
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 43
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 0
+
+Treasure AFTER 3
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 44
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 2
+
+Treasure AFTER 5
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 45
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 0
+
+Treasure AFTER 3
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 46
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 0
+
+Treasure AFTER 3
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 47
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 3
+
+Treasure AFTER 6
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 48
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 1
+
+Treasure AFTER 4
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 49
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 1
+
+Treasure AFTER 4
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 50
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 0
+
+Treasure AFTER 3
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 51
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 1
+
+Treasure AFTER 4
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 52
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 2
+
+Treasure AFTER 5
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 53
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 1
+
+Treasure AFTER 4
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 54
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 2
+
+Treasure AFTER 5
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 55
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 3
+
+Treasure AFTER 6
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 56
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 0
+
+Treasure AFTER 3
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 57
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 1
+
+Treasure AFTER 4
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 58
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 0
+
+Treasure AFTER 3
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 59
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 2
+
+Treasure AFTER 5
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 60
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 1
+
+Treasure AFTER 4
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 61
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 2
+
+Treasure AFTER 5
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 62
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 0
+
+Treasure AFTER 3
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 63
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 1
+
+Treasure AFTER 4
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 64
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 1
+
+Treasure AFTER 4
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 65
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 3
+
+Treasure AFTER 6
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 66
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 4
+
+Treasure AFTER 7
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 67
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 3
+
+Treasure AFTER 6
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 68
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 1
+
+Treasure AFTER 4
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 69
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 0
+
+Treasure AFTER 3
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 70
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 3
+
+Treasure AFTER 6
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 71
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 2
+
+Treasure AFTER 5
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 72
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 1
+
+Treasure AFTER 4
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 73
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 1
+
+Treasure AFTER 4
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 74
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 2
+
+Treasure AFTER 5
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 75
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 2
+
+Treasure AFTER 5
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 76
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 2
+
+Treasure AFTER 5
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 77
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 0
+
+Treasure AFTER 3
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 78
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 1
+
+Treasure AFTER 4
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 79
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 3
+
+Treasure AFTER 6
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 80
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 1
+
+Treasure AFTER 4
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 81
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 2
+
+Treasure AFTER 5
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 82
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 2
+
+Treasure AFTER 5
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 83
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 2
+
+Treasure AFTER 5
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 84
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 4
+
+Treasure AFTER 7
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 85
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 3
+
+Treasure AFTER 6
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 86
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 1
+
+Treasure AFTER 4
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 87
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 4
+
+Treasure AFTER 7
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 88
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 3
+
+Treasure AFTER 6
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 89
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 0
+
+Treasure AFTER 3
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 90
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 4
+
+Treasure AFTER 7
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 91
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 3
+
+Treasure AFTER 6
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 92
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 2
+
+Treasure AFTER 5
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 93
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 3
+
+Treasure AFTER 6
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 94
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 0
+
+Treasure AFTER 3
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 95
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 2
+
+Treasure AFTER 5
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 96
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 3
+
+Treasure AFTER 6
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 97
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 4
+
+Treasure AFTER 7
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 98
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 3
+
+Treasure AFTER 6
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 99
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 4
+
+Treasure AFTER 7
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 100
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 4
+
+Treasure AFTER 7
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 101
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 1
+
+Treasure AFTER 4
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 102
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 2
+
+Treasure AFTER 5
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 103
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 1
+
+Treasure AFTER 4
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 104
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 3
+
+Treasure AFTER 6
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 105
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 2
+
+Treasure AFTER 5
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 106
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 3
+
+Treasure AFTER 6
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 107
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 2
+
+Treasure AFTER 5
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 108
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 0
+
+Treasure AFTER 3
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 109
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 3
+
+Treasure AFTER 6
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 110
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 0
+
+Treasure AFTER 3
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 111
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 1
+
+Treasure AFTER 4
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 112
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 3
+
+Treasure AFTER 6
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 113
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 2
+
+Treasure AFTER 5
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 114
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 0
+
+Treasure AFTER 3
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 115
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 3
+
+Treasure AFTER 6
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 116
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 0
+
+Treasure AFTER 3
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 117
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 1
+
+Treasure AFTER 4
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 118
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 1
+
+Treasure AFTER 4
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 119
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 3
+
+Treasure AFTER 6
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 120
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 2
+
+Treasure AFTER 5
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 121
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 2
+
+Treasure AFTER 5
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 122
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 0
+
+Treasure AFTER 3
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 123
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 1
+
+Treasure AFTER 4
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 124
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 3
+
+Treasure AFTER 6
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 125
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 2
+
+Treasure AFTER 5
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 126
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 1
+
+Treasure AFTER 4
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 127
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 3
+
+Treasure AFTER 6
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 128
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 1
+
+Treasure AFTER 4
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 129
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 3
+
+Treasure AFTER 6
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 130
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 1
+
+Treasure AFTER 4
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 131
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 1
+
+Treasure AFTER 4
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 132
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 3
+
+Treasure AFTER 6
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 133
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 2
+
+Treasure AFTER 5
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 134
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 1
+
+Treasure AFTER 4
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 135
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 0
+
+Treasure AFTER 3
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 136
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 0
+
+Treasure AFTER 3
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 137
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 2
+
+Treasure AFTER 5
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 138
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 0
+
+Treasure AFTER 3
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 139
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 1
+
+Treasure AFTER 4
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 140
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 3
+
+Treasure AFTER 6
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 141
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 0
+
+Treasure AFTER 3
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 142
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 0
+
+Treasure AFTER 3
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 143
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 2
+
+Treasure AFTER 5
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 144
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 0
+
+Treasure AFTER 3
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 145
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 0
+
+Treasure AFTER 3
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 146
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 1
+
+Treasure AFTER 4
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 147
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 1
+
+Treasure AFTER 4
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 148
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 2
+
+Treasure AFTER 5
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 149
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 0
+
+Treasure AFTER 3
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 150
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 3
+
+Treasure AFTER 6
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 151
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 3
+
+Treasure AFTER 6
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 152
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 0
+
+Treasure AFTER 3
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 153
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 4
+
+Treasure AFTER 7
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 154
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 0
+
+Treasure AFTER 3
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 155
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 4
+
+Treasure AFTER 7
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 156
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 3
+
+Treasure AFTER 6
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 157
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 2
+
+Treasure AFTER 5
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 158
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 4
+
+Treasure AFTER 7
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 159
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 1
+
+Treasure AFTER 4
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 160
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 0
+
+Treasure AFTER 3
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 161
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 0
+
+Treasure AFTER 3
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 162
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 1
+
+Treasure AFTER 4
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 163
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 0
+
+Treasure AFTER 3
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 164
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 1
+
+Treasure AFTER 4
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 165
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 4
+
+Treasure AFTER 7
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 166
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 0
+
+Treasure AFTER 3
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 167
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 0
+
+Treasure AFTER 3
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 168
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 2
+
+Treasure AFTER 5
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 169
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 1
+
+Treasure AFTER 4
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 170
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 4
+
+Treasure AFTER 7
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 171
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 4
+
+Treasure AFTER 7
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 172
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 1
+
+Treasure AFTER 4
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 173
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 3
+
+Treasure AFTER 6
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 174
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 4
+
+Treasure AFTER 7
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 175
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 2
+
+Treasure AFTER 5
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 176
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 2
+
+Treasure AFTER 5
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 177
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 2
+
+Treasure AFTER 5
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 178
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 3
+
+Treasure AFTER 6
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 179
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 0
+
+Treasure AFTER 3
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 180
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 1
+
+Treasure AFTER 4
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 181
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 3
+
+Treasure AFTER 6
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 182
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 1
+
+Treasure AFTER 4
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 183
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 0
+
+Treasure AFTER 3
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 184
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 3
+
+Treasure AFTER 6
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 185
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 3
+
+Treasure AFTER 6
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 186
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 0
+
+Treasure AFTER 3
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 187
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 3
+
+Treasure AFTER 6
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 188
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 3
+
+Treasure AFTER 6
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 189
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 3
+
+Treasure AFTER 6
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 190
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 4
+
+Treasure AFTER 7
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 191
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 0
+
+Treasure AFTER 3
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 192
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 0
+
+Treasure AFTER 3
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 193
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 2
+
+Treasure AFTER 5
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 194
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 3
+
+Treasure AFTER 6
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 195
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 0
+
+Treasure AFTER 3
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 196
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 3
+
+Treasure AFTER 6
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 197
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 3
+
+Treasure AFTER 6
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 198
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 3
+
+Treasure AFTER 6
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 199
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 1
+
+Treasure AFTER 4
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 200
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 2
+
+Treasure AFTER 5
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 201
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 1
+
+Treasure AFTER 4
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 202
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 4
+
+Treasure AFTER 7
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 203
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 0
+
+Treasure AFTER 3
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 204
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 2
+
+Treasure AFTER 5
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 205
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 4
+
+Treasure AFTER 7
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 206
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 2
+
+Treasure AFTER 5
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 207
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 2
+
+Treasure AFTER 5
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 208
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 0
+
+Treasure AFTER 3
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 209
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 4
+
+Treasure AFTER 7
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 210
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 3
+
+Treasure AFTER 6
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 211
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 0
+
+Treasure AFTER 3
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 212
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 1
+
+Treasure AFTER 4
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 213
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 1
+
+Treasure AFTER 4
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 214
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 0
+
+Treasure AFTER 3
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 215
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 1
+
+Treasure AFTER 4
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 216
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 3
+
+Treasure AFTER 6
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 217
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 2
+
+Treasure AFTER 5
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 218
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 4
+
+Treasure AFTER 7
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 219
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 1
+
+Treasure AFTER 4
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 220
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 1
+
+Treasure AFTER 4
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 221
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 2
+
+Treasure AFTER 5
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 222
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 3
+
+Treasure AFTER 6
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 223
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 1
+
+Treasure AFTER 4
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 224
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 2
+
+Treasure AFTER 5
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 225
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 2
+
+Treasure AFTER 5
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 226
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 2
+
+Treasure AFTER 5
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 227
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 4
+
+Treasure AFTER 7
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 228
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 2
+
+Treasure AFTER 5
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 229
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 1
+
+Treasure AFTER 4
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 230
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 1
+
+Treasure AFTER 4
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 231
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 1
+
+Treasure AFTER 4
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 232
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 2
+
+Treasure AFTER 5
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 233
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 4
+
+Treasure AFTER 7
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 234
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 4
+
+Treasure AFTER 7
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 235
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 0
+
+Treasure AFTER 3
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 236
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 1
+
+Treasure AFTER 4
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 237
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 4
+
+Treasure AFTER 7
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 238
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 1
+
+Treasure AFTER 4
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 239
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 1
+
+Treasure AFTER 4
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 240
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 4
+
+Treasure AFTER 7
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 241
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 2
+
+Treasure AFTER 5
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 242
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 2
+
+Treasure AFTER 5
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 243
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 2
+
+Treasure AFTER 5
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 244
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 2
+
+Treasure AFTER 5
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 245
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 3
+
+Treasure AFTER 6
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 246
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 2
+
+Treasure AFTER 5
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 247
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 2
+
+Treasure AFTER 5
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 248
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 1
+
+Treasure AFTER 4
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 249
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 3
+
+Treasure AFTER 6
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 250
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 0
+
+Treasure AFTER 3
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 251
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 2
+
+Treasure AFTER 5
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 252
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 1
+
+Treasure AFTER 4
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 253
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 0
+
+Treasure AFTER 3
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 254
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 1
+
+Treasure AFTER 4
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 255
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 4
+
+Treasure AFTER 7
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 256
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 4
+
+Treasure AFTER 7
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 257
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 4
+
+Treasure AFTER 7
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 258
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 0
+
+Treasure AFTER 3
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 259
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 0
+
+Treasure AFTER 3
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 260
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 2
+
+Treasure AFTER 5
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 261
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 2
+
+Treasure AFTER 5
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 262
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 1
+
+Treasure AFTER 4
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 263
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 1
+
+Treasure AFTER 4
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 264
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 0
+
+Treasure AFTER 3
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 265
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 0
+
+Treasure AFTER 3
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 266
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 1
+
+Treasure AFTER 4
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 267
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 3
+
+Treasure AFTER 6
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 268
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 0
+
+Treasure AFTER 3
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 269
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 1
+
+Treasure AFTER 4
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 270
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 4
+
+Treasure AFTER 7
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 271
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 2
+
+Treasure AFTER 5
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 272
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 1
+
+Treasure AFTER 4
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 273
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 2
+
+Treasure AFTER 5
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 274
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 3
+
+Treasure AFTER 6
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 275
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 1
+
+Treasure AFTER 4
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 276
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 0
+
+Treasure AFTER 3
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 277
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 0
+
+Treasure AFTER 3
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 278
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 3
+
+Treasure AFTER 6
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 279
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 0
+
+Treasure AFTER 3
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 280
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 0
+
+Treasure AFTER 3
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 281
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 0
+
+Treasure AFTER 3
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 282
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 3
+
+Treasure AFTER 6
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 283
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 2
+
+Treasure AFTER 5
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 284
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 0
+
+Treasure AFTER 3
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 285
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 1
+
+Treasure AFTER 4
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 286
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 1
+
+Treasure AFTER 4
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 287
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 0
+
+Treasure AFTER 3
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 288
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 3
+
+Treasure AFTER 6
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 289
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 3
+
+Treasure AFTER 6
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 290
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 2
+
+Treasure AFTER 5
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 291
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 4
+
+Treasure AFTER 7
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 292
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 2
+
+Treasure AFTER 5
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 293
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 1
+
+Treasure AFTER 4
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 294
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 1
+
+Treasure AFTER 4
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 295
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 2
+
+Treasure AFTER 5
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 296
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 2
+
+Treasure AFTER 5
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 297
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 0
+
+Treasure AFTER 3
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 298
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 0
+
+Treasure AFTER 3
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 299
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 3
+
+Treasure AFTER 6
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 300
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 0
+
+Treasure AFTER 3
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 301
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 2
+
+Treasure AFTER 5
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 302
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 3
+
+Treasure AFTER 6
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 303
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 0
+
+Treasure AFTER 3
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 304
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 3
+
+Treasure AFTER 6
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 305
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 1
+
+Treasure AFTER 4
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 306
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 1
+
+Treasure AFTER 4
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 307
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 0
+
+Treasure AFTER 3
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 308
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 0
+
+Treasure AFTER 3
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 309
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 1
+
+Treasure AFTER 4
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 310
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 0
+
+Treasure AFTER 3
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 311
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 4
+
+Treasure AFTER 7
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 312
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 0
+
+Treasure AFTER 3
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 313
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 2
+
+Treasure AFTER 5
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 314
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 1
+
+Treasure AFTER 4
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 315
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 3
+
+Treasure AFTER 6
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 316
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 1
+
+Treasure AFTER 4
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 317
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 1
+
+Treasure AFTER 4
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 318
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 1
+
+Treasure AFTER 4
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 319
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 2
+
+Treasure AFTER 5
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 320
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 3
+
+Treasure AFTER 6
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 321
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 0
+
+Treasure AFTER 3
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 322
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 0
+
+Treasure AFTER 3
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 323
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 1
+
+Treasure AFTER 4
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 324
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 0
+
+Treasure AFTER 3
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 325
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 2
+
+Treasure AFTER 5
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 326
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 3
+
+Treasure AFTER 6
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 327
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 1
+
+Treasure AFTER 4
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 328
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 3
+
+Treasure AFTER 6
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 329
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 2
+
+Treasure AFTER 5
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 330
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 3
+
+Treasure AFTER 6
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 331
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 1
+
+Treasure AFTER 4
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 332
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 1
+
+Treasure AFTER 4
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 333
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 3
+
+Treasure AFTER 6
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 334
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 0
+
+Treasure AFTER 3
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 335
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 1
+
+Treasure AFTER 4
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 336
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 1
+
+Treasure AFTER 4
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 337
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 4
+
+Treasure AFTER 7
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 338
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 0
+
+Treasure AFTER 3
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 339
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 3
+
+Treasure AFTER 6
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 340
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 2
+
+Treasure AFTER 5
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 341
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 3
+
+Treasure AFTER 6
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 342
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 0
+
+Treasure AFTER 3
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 343
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 4
+
+Treasure AFTER 7
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 344
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 3
+
+Treasure AFTER 6
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 345
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 1
+
+Treasure AFTER 4
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 346
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 0
+
+Treasure AFTER 3
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 347
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 3
+
+Treasure AFTER 6
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 348
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 3
+
+Treasure AFTER 6
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 349
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 0
+
+Treasure AFTER 3
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 350
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 0
+
+Treasure AFTER 3
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 351
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 1
+
+Treasure AFTER 4
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 352
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 0
+
+Treasure AFTER 3
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 353
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 2
+
+Treasure AFTER 5
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 354
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 1
+
+Treasure AFTER 4
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 355
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 3
+
+Treasure AFTER 6
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 356
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 0
+
+Treasure AFTER 3
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 357
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 2
+
+Treasure AFTER 5
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 358
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 1
+
+Treasure AFTER 4
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 359
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 1
+
+Treasure AFTER 4
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 360
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 0
+
+Treasure AFTER 3
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 361
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 0
+
+Treasure AFTER 3
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 362
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 2
+
+Treasure AFTER 5
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 363
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 0
+
+Treasure AFTER 3
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 364
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 2
+
+Treasure AFTER 5
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 365
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 4
+
+Treasure AFTER 7
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 366
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 2
+
+Treasure AFTER 5
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 367
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 3
+
+Treasure AFTER 6
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 368
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 1
+
+Treasure AFTER 4
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 369
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 2
+
+Treasure AFTER 5
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 370
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 4
+
+Treasure AFTER 7
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 371
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 0
+
+Treasure AFTER 3
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 372
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 1
+
+Treasure AFTER 4
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 373
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 2
+
+Treasure AFTER 5
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 374
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 3
+
+Treasure AFTER 6
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 375
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 1
+
+Treasure AFTER 4
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 376
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 1
+
+Treasure AFTER 4
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 377
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 1
+
+Treasure AFTER 4
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 378
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 0
+
+Treasure AFTER 3
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 379
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 0
+
+Treasure AFTER 3
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 380
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 2
+
+Treasure AFTER 5
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 381
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 3
+
+Treasure AFTER 6
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 382
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 4
+
+Treasure AFTER 7
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 383
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 3
+
+Treasure AFTER 6
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 384
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 0
+
+Treasure AFTER 3
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 385
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 0
+
+Treasure AFTER 3
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 386
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 3
+
+Treasure AFTER 6
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 387
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 2
+
+Treasure AFTER 5
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 388
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 3
+
+Treasure AFTER 6
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 389
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 3
+
+Treasure AFTER 6
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 390
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 0
+
+Treasure AFTER 3
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 391
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 2
+
+Treasure AFTER 5
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 392
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 2
+
+Treasure AFTER 5
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 393
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 4
+
+Treasure AFTER 7
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 394
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 1
+
+Treasure AFTER 4
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 395
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 1
+
+Treasure AFTER 4
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 396
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 4
+
+Treasure AFTER 7
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 397
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 2
+
+Treasure AFTER 5
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 398
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 3
+
+Treasure AFTER 6
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 399
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 2
+
+Treasure AFTER 5
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 400
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 2
+
+Treasure AFTER 5
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 401
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 2
+
+Treasure AFTER 5
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 402
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 2
+
+Treasure AFTER 5
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 403
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 1
+
+Treasure AFTER 4
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 404
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 1
+
+Treasure AFTER 4
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 405
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 3
+
+Treasure AFTER 6
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 406
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 2
+
+Treasure AFTER 5
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 407
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 1
+
+Treasure AFTER 4
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 408
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 4
+
+Treasure AFTER 7
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 409
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 1
+
+Treasure AFTER 4
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 410
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 1
+
+Treasure AFTER 4
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 411
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 3
+
+Treasure AFTER 6
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 412
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 3
+
+Treasure AFTER 6
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 413
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 1
+
+Treasure AFTER 4
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 414
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 1
+
+Treasure AFTER 4
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 415
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 0
+
+Treasure AFTER 3
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 416
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 0
+
+Treasure AFTER 3
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 417
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 1
+
+Treasure AFTER 4
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 418
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 1
+
+Treasure AFTER 4
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 419
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 2
+
+Treasure AFTER 5
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 420
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 0
+
+Treasure AFTER 3
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 421
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 0
+
+Treasure AFTER 3
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 422
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 0
+
+Treasure AFTER 3
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 423
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 3
+
+Treasure AFTER 6
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 424
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 0
+
+Treasure AFTER 3
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 425
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 4
+
+Treasure AFTER 7
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 426
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 3
+
+Treasure AFTER 6
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 427
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 2
+
+Treasure AFTER 5
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 428
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 0
+
+Treasure AFTER 3
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 429
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 3
+
+Treasure AFTER 6
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 430
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 2
+
+Treasure AFTER 5
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 431
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 1
+
+Treasure AFTER 4
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 432
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 1
+
+Treasure AFTER 4
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 433
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 1
+
+Treasure AFTER 4
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 434
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 2
+
+Treasure AFTER 5
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 435
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 1
+
+Treasure AFTER 4
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 436
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 4
+
+Treasure AFTER 7
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 437
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 3
+
+Treasure AFTER 6
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 438
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 3
+
+Treasure AFTER 6
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 439
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 2
+
+Treasure AFTER 5
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 440
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 3
+
+Treasure AFTER 6
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 441
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 2
+
+Treasure AFTER 5
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 442
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 2
+
+Treasure AFTER 5
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 443
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 0
+
+Treasure AFTER 3
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 444
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 0
+
+Treasure AFTER 3
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 445
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 1
+
+Treasure AFTER 4
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 446
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 1
+
+Treasure AFTER 4
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 447
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 4
+
+Treasure AFTER 7
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 448
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 2
+
+Treasure AFTER 5
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 449
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 4
+
+Treasure AFTER 7
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 450
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 0
+
+Treasure AFTER 3
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 451
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 0
+
+Treasure AFTER 3
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 452
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 3
+
+Treasure AFTER 6
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 453
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 1
+
+Treasure AFTER 4
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 454
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 0
+
+Treasure AFTER 3
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 455
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 2
+
+Treasure AFTER 5
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 456
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 3
+
+Treasure AFTER 6
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 457
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 0
+
+Treasure AFTER 3
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 458
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 0
+
+Treasure AFTER 3
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 459
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 2
+
+Treasure AFTER 5
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 460
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 1
+
+Treasure AFTER 4
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 461
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 3
+
+Treasure AFTER 6
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 462
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 1
+
+Treasure AFTER 4
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 463
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 0
+
+Treasure AFTER 3
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 464
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 4
+
+Treasure AFTER 7
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 465
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 3
+
+Treasure AFTER 6
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 466
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 2
+
+Treasure AFTER 5
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 467
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 2
+
+Treasure AFTER 5
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 468
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 0
+
+Treasure AFTER 3
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 469
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 2
+
+Treasure AFTER 5
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 470
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 0
+
+Treasure AFTER 3
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 471
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 0
+
+Treasure AFTER 3
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 472
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 0
+
+Treasure AFTER 3
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 473
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 0
+
+Treasure AFTER 3
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 474
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 2
+
+Treasure AFTER 5
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 475
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 0
+
+Treasure AFTER 3
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 476
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 2
+
+Treasure AFTER 5
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 477
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 3
+
+Treasure AFTER 6
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 478
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 1
+
+Treasure AFTER 4
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 479
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 2
+
+Treasure AFTER 5
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 480
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 2
+
+Treasure AFTER 5
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 481
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 3
+
+Treasure AFTER 6
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 482
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 3
+
+Treasure AFTER 6
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 483
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 3
+
+Treasure AFTER 6
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 484
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 3
+
+Treasure AFTER 6
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 485
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 1
+
+Treasure AFTER 4
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 486
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 0
+
+Treasure AFTER 3
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 487
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 4
+
+Treasure AFTER 7
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 488
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 0
+
+Treasure AFTER 3
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 489
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 3
+
+Treasure AFTER 6
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 490
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 3
+
+Treasure AFTER 6
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 491
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 0
+
+Treasure AFTER 3
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 492
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 3
+
+Treasure AFTER 6
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 493
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 1
+
+Treasure AFTER 4
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 494
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 3
+
+Treasure AFTER 6
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 495
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 1
+
+Treasure AFTER 4
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 496
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 0
+
+Treasure AFTER 3
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 497
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 3
+
+Treasure AFTER 6
+3 treasures added to hand. (This is a bug introduced in aprofiling:/nfs/stak/users/zibratr/unit/rngs.gcda:Version mismatch - expected 408R got 402*
+profiling:/nfs/stak/users/zibratr/unit/dominion.gcda:Version mismatch - expected 408R got 402*
+ssignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 498
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 1
+
+Treasure AFTER 4
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+
+
+TEST # 499
+Deck was shuffled. 
+3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) 
+
+Treasure BEFORE 4
+
+Treasure AFTER 7
+3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) 
+Return value is 0 (supposed to be 0). 
+
+ **All tests passed for the Adventurer card.** 
+
+File 'randomtestadventurer.c'
+Lines executed:98.21% of 56
+Creating 'randomtestadventurer.c.gcov'
+

@@ -1,0 +1,31 @@
+﻿  cardtest1.c
+  cardtest2.c
+  cardtest3.c
+  cardtest4.c
+  dominion.c
+c:\users\rosez\onedrive\documents\osu\fall 2018\362\delteme\cs362-004-f2018\dominion\dominion.c(215): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\rosez\onedrive\documents\osu\fall 2018\362\delteme\cs362-004-f2018\dominion\dominion.c(659): warning C4101: 'cardDrawn': unreferenced local variable
+  randomtestadventurer.c
+  randomtestcard1.c
+  randomtestcard2.c
+c:\users\rosez\onedrive\documents\osu\fall 2018\362\delteme\cs362-004-f2018\dominion\randomtestcard2.c(99): warning C4047: '==': 'int [500]' differs in levels of indirection from 'int'
+  unittest1.c
+  unittest2.c
+c:\users\rosez\onedrive\documents\osu\fall 2018\362\delteme\cs362-004-f2018\dominion\unittest2.c(22): warning C4101: 'state': unreferenced local variable
+  unittest3.c
+  unittest4.c
+  Generating Code...
+cardtest2.obj : error LNK2005: _main already defined in cardtest1.obj
+cardtest3.obj : error LNK2005: _main already defined in cardtest1.obj
+cardtest4.obj : error LNK2005: _main already defined in cardtest1.obj
+randomtestadventurer.obj : error LNK2005: _main already defined in cardtest1.obj
+randomtestcard1.obj : error LNK2005: _main already defined in cardtest1.obj
+randomtestcard2.obj : error LNK2005: _main already defined in cardtest1.obj
+unittest1.obj : error LNK2005: _main already defined in cardtest1.obj
+unittest2.obj : error LNK2005: _main already defined in cardtest1.obj
+unittest3.obj : error LNK2005: _main already defined in cardtest1.obj
+unittest4.obj : error LNK2005: _main already defined in cardtest1.obj
+dominion.obj : error LNK2019: unresolved external symbol _Random referenced in function _shuffle
+dominion.obj : error LNK2019: unresolved external symbol _PutSeed referenced in function _initializeGame
+dominion.obj : error LNK2019: unresolved external symbol _SelectStream referenced in function _initializeGame
+C:\Users\RoseZ\OneDrive\Documents\OSU\Fall 2018\362\Delteme\CS362-004-F2018\asn4\Debug\asn4.exe : fatal error LNK1120: 3 unresolved externals
