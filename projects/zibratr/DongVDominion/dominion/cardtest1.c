@@ -41,8 +41,8 @@ int main() {
 *******************************************************************************/
 
 	// Check that deck is shuffled if deck count is 0.
-	assert(state.deckCount[currentPlayer] > 1);
-	printf("Deck was shuffled. \n");
+	//assert(state.deckCount[currentPlayer] > 1);
+	//printf("Deck was shuffled. \n");
 
 /*******************************************************************************
 * TEST 2 - Get two cards.
