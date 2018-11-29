@@ -20,7 +20,9 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="cardtest1.c" />
+    <ClCompile Include="cardtest3.c" />
     <ClCompile Include="dominion.c" />
+    <ClCompile Include="randomtestcard1.c" />
     <ClCompile Include="rngs.c" />
   </ItemGroup>
   <ItemGroup>

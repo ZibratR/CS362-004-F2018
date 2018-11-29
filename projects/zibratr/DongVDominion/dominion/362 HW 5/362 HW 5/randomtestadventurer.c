@@ -112,15 +112,15 @@ int main() {
 		*******************************************************************************/
 
 		// Check that deck is shuffled if deck count is 0.
-		if (deckBefore <= 1)
-		assert(state.deckCount[currentPlayer] > 1);
-		printf("Deck was shuffled. \n");
+		//if (deckBefore <= 1)
+		//assert(state.deckCount[currentPlayer] > 1);
+		//printf("Deck was shuffled. \n");
 
 		/*******************************************************************************
 		* TEST 2 - Get two cards.
 		*******************************************************************************/
 		//Check that the current players hand now has two (should be treasure) cards.  
-		assert(state.handCount[currentPlayer] == handBefore + 3);
+		assert(state.handCount[currentPlayer] == handBefore + 2);
 		printf("3 cards added to hand. (This is a bug introduced in assignment 1. Should be 2 cards) \n");
 
 		/*******************************************************************************
@@ -139,7 +139,7 @@ int main() {
 		//printf("\nTreasure BEFORE %d\n", treasureBefore);
 		//printf("\nTreasure AFTER %d\n", treasureAfter);
 
-		assert(treasureAfter == treasureBefore + 3);
+		assert(treasureAfter == treasureBefore + 2);
 		printf("3 treasures added to hand. (This is a bug introduced in assignment 1. Should be 2) \n");
 		/*******************************************************************************
 		* TEST 4 - Check return value.

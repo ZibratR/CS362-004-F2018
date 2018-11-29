@@ -91,7 +91,7 @@ int main() {
 		* TEST 1 - Check that 3 new cards were drawn into hand (smithy discarded).
 		*******************************************************************************/
 		// Check that hand has 3 new cards. (3 drawn and smithy removed.)
-		assert(state.handCount[currentPlayer] == handBefore + 3);
+		assert(state.handCount[currentPlayer] == handBefore + 2);
 		printf("4 (this is a bug from previous assignment - should be 3) cards drawn. \n");
 
 		/*******************************************************************************

@@ -21,6 +21,12 @@
     <ClCompile Include="rngs.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="randomtestcard1.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="cardtest3.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
     <ClCompile Include="cardtest1.c">
       <Filter>Source Files</Filter>
     </ClCompile>
